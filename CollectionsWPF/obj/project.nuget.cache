@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ujdgSMRRV0=",
+  "success": true,
+  "projectFilePath": "D:\\C#\\CollectionsWPF\\CollectionsWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PAVITHRA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,42 @@
+﻿<Window x:Class="CollectionsWPF.CollectionTypes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CollectionsWPF"
+        mc:Ignorable="d"
+        Title="CollectionTypes" Height="900" Width="800">
+    <StackPanel>
+        <Label Content="COLLECTIONS" HorizontalAlignment="Center" FontSize="20"></Label>
+        <StackPanel Background="Bisque" Height="250" Width="350">
+            <Label Content="Name"></Label>
+            <TextBox x:Name="txtname"></TextBox>
+            <Label Content="Age"></Label>
+            <TextBox x:Name="txtage"></TextBox>
+            <Label Content="Mobile no"></Label>
+            <TextBox x:Name="txtmobile"></TextBox>
+            <Label Content="Address"></Label>
+            <TextBox x:Name="txtaddress" AcceptsReturn="True" Height="50"></TextBox>
+        </StackPanel>
+ 
+    <StackPanel Orientation="Horizontal">
+        <StackPanel Background="Aquamarine" Height="300" Width="350" Margin="20" HorizontalAlignment="Center">
+            <Label Content="NON-GENERIC COLLECTIONS" HorizontalAlignment="Center" FontSize="15"></Label>
+            <Button Content="Array List" x:Name="ArrayListbtn" Click="ArrayListbtn_Click" Margin="10" Height="30"></Button>
+            <Button Content="Hash Table" x:Name="HashTablebtn" Click="HashTablebtn_Click" Margin="10" Height="30"></Button>
+            <Button Content="Stack" x:Name="Stackbtn" Click="Stackbtn_Click" Margin="10" Height="30"></Button>
+            <Button Content="Queue" x:Name="Queuebtn" Click="Queuebtn_Click" Margin="10" Height="30"></Button>
+            <Button Content="StringCollection" x:Name="StringColl" Click="StringColl_Click" Margin="10" Height="30"></Button>
+        </StackPanel>
+        <StackPanel Background="LightPink" Height="300" Width="350" Margin="20" HorizontalAlignment="Center">
+            <Label Content="GENERIC COLLECTIONS" HorizontalAlignment="Center" FontSize="15"></Label>
+            <Button Content="List&lt;T>" Margin="10" x:Name="GenericList" Click="GenericList_Click"></Button>
+            <Button Content="Dictionary&lt;Tkey,Tvalue>" Margin="10" x:Name="GenericHashtable" Click="GenericHashtable_Click"></Button>
+                <Button Content="Stack&lt;T>" x:Name="GenericsStack" Click="GenericsStack_Click" Margin="10"></Button>
+                <Button Content="Queue&lt;T>" Margin="10" x:Name="GenericQueue" Click="GenericQueue_Click"></Button>
+                <Button Content="SortedList&lt;Tkey,Tvalue>" x:Name="GenericSortedList" Click="GenericSortedList_Click" Margin="10"></Button>
+                <Button Content="SortedDictionary&lt;Tkey,Tvalue>" x:Name="GenericSortedDict" Click="GenericSortedDict_Click" Margin="10"></Button>
+            </StackPanel>
+    </StackPanel>
+    </StackPanel>
+</Window>

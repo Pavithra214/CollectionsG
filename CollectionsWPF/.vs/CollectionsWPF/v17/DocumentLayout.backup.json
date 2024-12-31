@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CollectionsWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|d:\\c#\\collectionswpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|d:\\c#\\collectionswpf\\collectionswpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|solutionrelative:collectionswpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|d:\\c#\\collectionswpf\\collectiontypes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|solutionrelative:collectiontypes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|d:\\c#\\collectionswpf\\reg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|solutionrelative:reg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|d:\\c#\\collectionswpf\\search.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|solutionrelative:search.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|d:\\c#\\collectionswpf\\search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|solutionrelative:search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|d:\\c#\\collectionswpf\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|solutionrelative:model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|d:\\c#\\collectionswpf\\reg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|solutionrelative:reg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|d:\\c#\\collectionswpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|d:\\c#\\collectionswpf\\token.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|solutionrelative:token.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|d:\\c#\\collectionswpf\\doctorroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|solutionrelative:doctorroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|d:\\c#\\collectionswpf\\token.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|solutionrelative:token.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|d:\\c#\\collectionswpf\\doctorroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|solutionrelative:doctorroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|D:\\C#\\CollectionsWPF\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|d:\\c#\\collectionswpf\\collectionswpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|solutionrelative:collectionswpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|d:\\c#\\collectionswpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D8A62828-8CD5-475D-82FF-81DF1A564D9C}|CollectionsWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Search.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionsWPF\\Search.xaml.cs",
+              "RelativeDocumentMoniker": "Search.xaml.cs",
+              "ToolTip": "D:\\C#\\CollectionsWPF\\Search.xaml.cs",
+              "RelativeToolTip": "Search.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:26:28.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reg.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionsWPF\\Reg.xaml.cs",
+              "RelativeDocumentMoniker": "Reg.xaml.cs",
+              "ToolTip": "D:\\C#\\CollectionsWPF\\Reg.xaml.cs",
+              "RelativeToolTip": "Reg.xaml.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:33:25.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Search.xaml",
+              "DocumentMoniker": "D:\\C#\\CollectionsWPF\\Search.xaml",
+              "RelativeDocumentMoniker": "Search.xaml",
+              "ToolTip": "D:\\C#\\CollectionsWPF\\Search.xaml",
+              "RelativeToolTip": "Search.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T13:17:37.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reg.xaml",
+              "DocumentMoniker": "D:\\C#\\CollectionsWPF\\Reg.xaml",
+              "RelativeDocumentMoniker": "Reg.xaml",
+              "ToolTip": "D:\\C#\\CollectionsWPF\\Reg.xaml",
+              "RelativeToolTip": "Reg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T19:33:08.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionsWPF\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Model\\Employee.cs",
+              "ToolTip": "D:\\C#\\CollectionsWPF\\Model\\Employee.cs",
+              "RelativeToolTip": "Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:12:12.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectionsWPF.csproj",
+              "DocumentMoniker": "D:\\C#\\CollectionsWPF\\CollectionsWPF.csproj",
+              "RelativeDocumentMoniker": "CollectionsWPF.csproj",
+              "ToolTip": "D:\\C#\\CollectionsWPF\\CollectionsWPF.csproj",
+              "RelativeToolTip": "CollectionsWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T20:10:57.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollectionTypes.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionsWPF\\CollectionTypes.xaml.cs",
+              "RelativeDocumentMoniker": "CollectionTypes.xaml.cs",
+              "ToolTip": "D:\\C#\\CollectionsWPF\\CollectionTypes.xaml.cs",
+              "RelativeToolTip": "CollectionTypes.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:55:32.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\C#\\CollectionsWPF\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\C#\\CollectionsWPF\\App.xaml*",
+              "RelativeToolTip": "App.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T15:09:18.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionsWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\CollectionsWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T13:01:34.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Token.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionsWPF\\Token.xaml.cs",
+              "RelativeDocumentMoniker": "Token.xaml.cs",
+              "ToolTip": "D:\\C#\\CollectionsWPF\\Token.xaml.cs",
+              "RelativeToolTip": "Token.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:27:31.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoctorRoom.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\CollectionsWPF\\DoctorRoom.xaml.cs",
+              "RelativeDocumentMoniker": "DoctorRoom.xaml.cs",
+              "ToolTip": "D:\\C#\\CollectionsWPF\\DoctorRoom.xaml.cs",
+              "RelativeToolTip": "DoctorRoom.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:25:52.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorRoom.xaml",
+              "DocumentMoniker": "D:\\C#\\CollectionsWPF\\DoctorRoom.xaml",
+              "RelativeDocumentMoniker": "DoctorRoom.xaml",
+              "ToolTip": "D:\\C#\\CollectionsWPF\\DoctorRoom.xaml",
+              "RelativeToolTip": "DoctorRoom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T15:22:24.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Token.xaml",
+              "DocumentMoniker": "D:\\C#\\CollectionsWPF\\Token.xaml",
+              "RelativeDocumentMoniker": "Token.xaml",
+              "ToolTip": "D:\\C#\\CollectionsWPF\\Token.xaml",
+              "RelativeToolTip": "Token.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T15:09:11.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CollectionsWPF",
+              "DocumentMoniker": "D:\\C#\\CollectionsWPF\\CollectionsWPF.csproj",
+              "RelativeDocumentMoniker": "CollectionsWPF.csproj",
+              "ToolTip": "D:\\C#\\CollectionsWPF\\CollectionsWPF.csproj",
+              "RelativeToolTip": "CollectionsWPF.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T08:10:37.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\CollectionsWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\C#\\CollectionsWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-19T13:01:38.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\C#\\CollectionsWPF\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "D:\\C#\\CollectionsWPF\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-11-21T08:10:45.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
